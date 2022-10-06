@@ -1,0 +1,5 @@
+echo"ALX"> bash/alx
+!!:s^C
+ ^C
+echo #!/bin/bash> bash/school
+echo echoSchool
