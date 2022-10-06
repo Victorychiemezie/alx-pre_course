@@ -1,3 +1,2 @@
-echo"ALX"> bin/alx
-echo #!/bin/bash> bash/school
-echo echoSchool
+echo"ALX School"> bash/alx
+echo echoThe school is open!
